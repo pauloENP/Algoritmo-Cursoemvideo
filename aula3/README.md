@@ -1,4 +1,4 @@
-#Comandos de entrada
+# Comandos de entrada
 
 ## Portugol:
 Algoritmo "MeuNome"
@@ -17,19 +17,20 @@ alert(`Muito prazer ${Nome}`)
 # Operadores aritimeticos e ordem de preferencia:
 Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para Portugol quanto para JavaScript:
 
-##Operadores aritimeticos:
-                  |let A = 5|
-                  |let B = 2|  
-                  |---|  
-+ |Adição         |A+B|7        
-- |Subtração      |A-B|3
-* |Multiplicação  |A*B|10
-/ |Divisão        |A/B|2.5
-\ |Divisão inteira|A\B|2
-^ |Exponenciação  |A^B|25
-% |Módulo         |A%B|1
+## Operadores aritimeticos:
+| |                 |let A = 5|   |
+|-|-----------------|---------|---|
+| |                 |let B = 2|   |      
+| |                 |         |   |                
+|+|Adição           |A+B      |7  |       
+|-|Subtração        |A-B      |3  |
+|*|Multiplicação    |A*B      |10 |
+|/|Divisão          |A/B      |2.5|
+| \ |Divisão inteira  |A\B      |2  |
+|^|Exponenciação    |A^B      |25 |
+|%|Módulo           |A%B      |1  |
 
-##Ordem de precedência:
+## Ordem de precedência:
 
 ()|Parênteses             |  
 ^ |Exponenciação          |
@@ -39,9 +40,9 @@ Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para P
 
 
 
-#Em JavaScript o tipo de dado da variavel é setado altomaticamente em tempo de execução. porem, em Portugol é necessario identificar o tipo de dado.
+# Em JavaScript o tipo de dado da variavel é setado altomaticamente em tempo de execução. porem, em Portugol é necessario identificar o tipo de dado.
 
-#Portugol:
+# Portugol:
 
     Algoritmo "Média"
     Var
@@ -56,7 +57,7 @@ Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para P
     Escreva("A media entre", N1, "e", N2 "é: M")
     FimAlgoritmo
 
-#JavaScript:
+# JavaScript:
 
 
     let n1 = prompt("numero 1");
@@ -70,7 +71,7 @@ Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para P
 
 
 
-##Funções aritmeticas (Em JavaScript):
+## Funções aritmeticas (Em JavaScript):
 Math.abs()                   | Valor absoluto|Math.abs(-10)|10
 Math.pow(x,y)                |Exponenciação  |Math.pow(3,2)|9
 parseInt(string)             |Valor inteiro  |parseInt(3.9)|3
