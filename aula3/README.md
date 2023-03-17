@@ -1,18 +1,18 @@
 # Comandos de entrada
 
 ## Portugol:
-Algoritmo "MeuNome"
-var
-    Nome: Caractere
-inicio
-    Escreva ("Digite seu nome :")
-    Leia (Nome)
-    Escreva ("Muito prazer ", Nome)
-FimAlgoritmo
+    Algoritmo "MeuNome"
+    var
+        Nome: Caractere
+    inicio
+        Escreva ("Digite seu nome :")
+        Leia (Nome)
+        Escreva ("Muito prazer ", Nome)
+    FimAlgoritmo
 
 ## JavaScript:
-let Nome = prompt("Digite seu nome :")
-alert(`Muito prazer ${Nome}`)
+    let Nome = prompt("Digite seu nome :")
+    alert(`Muito prazer ${Nome}`)
 
 # Operadores aritimeticos e ordem de preferencia:
 Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para Portugol quanto para JavaScript:
