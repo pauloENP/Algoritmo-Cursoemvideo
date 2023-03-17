@@ -31,11 +31,12 @@ Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para P
 |%|Módulo           |A%B      |1  |
 
 ## Ordem de precedência:
-
-()|Parênteses             |  
-^ |Exponenciação          |
-*/|Multiplicação e divisão|
-+-|Adição e subtração     |
+|  |                       |
+|--|-----------------------|
+|()|Parênteses             |  
+|^ |Exponenciação          |
+|*/|Multiplicação e divisão|
+|+-|Adição e subtração     |
 
 
 
