@@ -1,3 +1,4 @@
+//não repare no DRY. XD
 let Nome = prompt("Digite seu nome :")
 alert(`Muito prazer ${Nome}`)
 
