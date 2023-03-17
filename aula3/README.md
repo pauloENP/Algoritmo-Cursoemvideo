@@ -72,13 +72,15 @@ Os operadores aritimeticos e as ordem de preferencia são os mesmos tanto para P
 
 
 ## Funções aritmeticas (Em JavaScript):
-Math.abs()                   | Valor absoluto|Math.abs(-10)|10
-Math.pow(x,y)                |Exponenciação  |Math.pow(3,2)|9
-parseInt(string)             |Valor inteiro  |parseInt(3.9)|3
-Math.sqrt()                  |Raiz quadrada  |Math.sqrt(25)|5
-Math.PI                      |Retorna Pi     |Math.PI|3.14159
-Math.sin()                   |Seno(rad)      |Math.sin(0.523)|0.499
-Math.cos()                   |Cosseno(rad)   |Math.cos(0.523)|0.866
-Math.tan()                   |Tangente(rad)  |Math.tan(0.523)|0.576 
-(Math.PI/180)*Angulo_em_graus|Graus para Rad |(Math.PI/180)*30|0.523
+|                             |               |                |     |
+|-----------------------------|---------------|----------------|-----|
+|Math.abs()                   | Valor absoluto|Math.abs(-10)   |10   |
+|Math.pow(x,y)                |Exponenciação  |Math.pow(3,2)   |9    |
+|parseInt(string)             |Valor inteiro  |parseInt(3.9)   |3    |
+|Math.sqrt()                  |Raiz quadrada  |Math.sqrt(25)   |5    |
+|Math.PI                      |Retorna Pi     |Math.PI|3.14159 |     |
+|Math.sin()                   |Seno(rad)      |Math.sin(0.523) |0.499|
+|Math.cos()                   |Cosseno(rad)   |Math.cos(0.523) |0.866|
+|Math.tan()                   |Tangente(rad)  |Math.tan(0.523) |0.576|
+|(Math.PI/180)*Angulo_em_graus|Graus para Rad |(Math.PI/180)*30|0.523|
 
